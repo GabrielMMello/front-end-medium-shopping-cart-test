@@ -1,0 +1,141 @@
+@font-face {
+  font-family: "Poppins";
+  font-weight: 500;
+  src: url("./fonts/Poppins-Medium.ttf");
+}
+
+@font-face {
+  font-family: "Poppins";
+  font-weight: 600;
+  src: url("./fonts/Poppins-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "Poppins";
+  font-weight: 800;
+  src: url("./fonts/Poppins-ExtraBold.ttf");
+}
+
+.App {
+  background-color: #D1D8E5;
+  background-repeat: repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 90px;
+  padding-bottom: 140px;
+  font-family: "Poppins";
+}
+
+.c-box {
+  width: calc(100vw * 620 / 1440);
+  border-radius: 12px;
+  background-color: white;
+  box-shadow: 0 10px 28px #AFB5C0;
+}
+
+.header__box {
+  height: 76px;
+  font-size: 24px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.item-list-box {
+  padding: 0 26px;
+}
+
+.item-box {
+  height: 144px;
+  margin: 26px 0;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items:flex-start;
+  padding: 0;
+}
+
+.item-box__img {
+  height: 142px;
+  width: 142px;
+  border: 1px solid #D3D3D3;
+}
+
+.item-box__name {
+  font-size: 18px;
+  font-weight: 800;
+  width: calc(100% - 144px);
+  padding-left: 26px;
+  margin-bottom: 10px;
+}
+
+.item-box__old-price {
+  font-size: 14px;
+  color: #ACA5A6;
+  padding-left: 26px;
+  margin-bottom: 0;
+}
+
+.item-box__new-price {
+  font-size: 18px;
+  font-weight: 600;
+  padding-left: 26px;
+}
+
+.totals-box {
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.totals-box__text {
+  width: 50%;
+  font-size: 24px;
+  font-weight: 800;
+  padding: 50px 0 40px 26px;
+  margin-bottom: 0;
+}
+
+.totals-box__price {
+  width: 50%;
+  font-size: 24px;
+  font-weight: 800;
+  text-align: right;
+  padding: 50px 26px 40px 0;
+  margin-bottom: 0;
+}
+
+.totals-box__free-shipping {
+  height: 56px;
+  border-radius: 26px;
+  background-color: #C7FFA6;
+  color: #217A00;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 26px;
+  font-size: 22px;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+
+.submit-box {
+  height: 147px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0 0 0 0);
+}
+
+.submit-box__button {
+  width: 560px;
+  height: 80px;
+  border-radius: 8px;
+  font-size: 24px;
+  font-weight: 800;
+}
