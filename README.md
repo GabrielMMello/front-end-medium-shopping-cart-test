@@ -1,5 +1,8 @@
 # Shopping cart test from an Middle Front End Developer admission test
-  Projct completed using:
+
+
+
+  Project completed using:
     in Front end - React || Axios || useEffect || useState || Bootstrap
     in Back end - AdonisJs
     
@@ -8,3 +11,7 @@
   In Back end there is an API that sends the shopping cart data with the items, total value and other data requested in the test description. 
     
   ![project-screenshot](https://user-images.githubusercontent.com/66647120/105909678-a5a42380-6006-11eb-9101-832d6cd52448.png)
+
+<h1 align="center">
+    <img alt="Ecoleta" title="#Ecoleta" src="./assets/banner.png" />
+</h1>
