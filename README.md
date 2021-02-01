@@ -40,7 +40,7 @@ Project developed during a job challenge.
 
 ## Features
 
-- [x] Set a local server that provides a shopping cart data:
+- [x] Set a local server that provides a shopping cart data
 
 - [x] Present the data provided by the server in the browser:
    - [x] Check if the client got free shipping
