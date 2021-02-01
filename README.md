@@ -154,4 +154,4 @@ The following tools were used in the construction of the project:
 This project is under the license [MIT](./LICENSE).
 
 Made with passion by Gabriel Mello
-[Call me anytime!](Https://www.linkedin.com/in/gabriel-mendes-mello/)
+[Call me anytime!](https://www.linkedin.com/in/gabriel-mendes-mello/)
