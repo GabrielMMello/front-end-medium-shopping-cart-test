@@ -122,7 +122,7 @@ The following tools were used in the construction of the project:
 
 > See the file  [package.json](https://github.com/GabrielMMello/front-end-pleno-shopping-cart-test/blob/main/shopping-cart/package.json)
 
-#### **Server**  ([AdonisJS](https://adonisjs.com/)
+#### **Server**  ([AdonisJS](https://adonisjs.com/))
 
 -   **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
 -   **[SQLite](https://github.com/mapbox/node-sqlite3)**
@@ -139,7 +139,7 @@ The following tools were used in the construction of the project:
 
 ## Author
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://www.linkedin.com/in/gabriel-mendes-mello/">
  <sub><b>Gabriel Mendes Mello</b></sub>
  <br />
 
